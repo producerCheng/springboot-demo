@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gupao.springbootdemo.SpringbootDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.076 s - in com.gupao.springbootdemo.SpringbootDemoApplicationTests
