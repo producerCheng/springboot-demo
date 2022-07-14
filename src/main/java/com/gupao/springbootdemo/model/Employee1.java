@@ -1,2 +1,4 @@
-package com.gupao.springbootdemo.model;public class Employee1 {
+package com.gupao.springbootdemo.model;
+
+public class Employee1 {
 }
